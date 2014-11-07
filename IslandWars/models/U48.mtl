@@ -1,0 +1,23 @@
+# Blender3D MTL File: U48fuck.blend
+# Material Count: 2
+newmtl base_material_U48UVmap.jpg
+Ns 68.627451
+Ka 0.000000 0.000000 0.000000
+Kd 0.107588 0.101208 0.136587
+Ks 0.660137 0.660137 0.660137
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Resources/U48UVmap.tga
+
+
+newmtl None_U48UVmap.jpg
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd Resources/U48UVmap.jpg
+
+

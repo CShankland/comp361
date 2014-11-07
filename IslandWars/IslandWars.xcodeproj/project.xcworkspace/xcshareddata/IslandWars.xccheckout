@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>150DAE7E-5913-4D3C-9549-1EB30ED5E3A0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>IslandWars</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9C0C6618-8EBB-47F1-915F-0C0082B5C162</key>
+		<string>svn+ssh://svn.cs.mcgill.ca/xtra/2010/cs361/group-06/svnroot/IslandWars</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>IslandWars/IslandWars.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9C0C6618-8EBB-47F1-915F-0C0082B5C162</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>9C0C6618-8EBB-47F1-915F-0C0082B5C162</key>
+		<string>svn+ssh://svn.cs.mcgill.ca/xtra/2010/cs361/group-06/svnroot</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn+ssh://svn.cs.mcgill.ca/xtra/2010/cs361/group-06/svnroot/IslandWars/IslandWars/IslandWars.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9C0C6618-8EBB-47F1-915F-0C0082B5C162</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9C0C6618-8EBB-47F1-915F-0C0082B5C162</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Comp361</string>
+		</dict>
+	</array>
+</dict>
+</plist>
