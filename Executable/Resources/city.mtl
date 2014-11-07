@@ -1,0 +1,12 @@
+# Blender3D MTL File: mayantemple.blend
+# Material Count: 1
+newmtl Material
+Ns 337.254902
+Ka 0.000000 0.000000 0.000000
+Kd 0.639857 0.497667 0.396102
+Ks 0.137832 0.137832 0.137832
+Ni 1.000000
+d 1.000000
+illum 2
+
+
